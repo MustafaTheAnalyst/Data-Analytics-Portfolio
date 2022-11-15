@@ -3,6 +3,7 @@
 I have displayed a few Tableau Dashboard using public datasets below. You can find each Tableau Workbook within the "Workbook" directory in this repo. Feel free to check out images of the dashboards below, and download any workbook that interests you. I also included SQL queries to wrangle the data into the correct representation.
 
 #### Transaction Dashboard
+<img width="999" alt="BreakBreadDashboard" src="https://user-images.githubusercontent.com/118014331/201996606-78817d9a-1ff8-424b-a338-d2a9d2058c1d.png">
 
 ![Transaction Dashboard](./Workbooks/BreakingBread/BreakBreadDashboard.png)
 
