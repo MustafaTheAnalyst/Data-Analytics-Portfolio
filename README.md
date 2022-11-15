@@ -5,7 +5,7 @@ I have displayed a few Tableau Dashboard using public datasets below. You can fi
 #### Transaction Dashboard
 <img width="999" alt="BreakBreadDashboard" src="https://user-images.githubusercontent.com/118014331/201996606-78817d9a-1ff8-424b-a338-d2a9d2058c1d.png">
 
-![Transaction Dashboard](./Workbooks/BreakingBread/BreakBreadDashboard.png)
+
 
 - Workbook Name: Breaking Bread Dashboard
 - Dataset: [Bread Basket](https://www.kaggle.com/xvivancos/transactions-from-a-bakery)
@@ -15,7 +15,8 @@ This dataset contained transaction information on item purchases from a bakery f
 
 #### Crypto Currency Timeline
 
-![Crypto Currency Timeline](./Workbooks/CryptoCurrencyTimeline/CryptoCurrencyTimeline.png)
+![Crypto Currency Timeline]<img width="993" alt="CryptoCurrencyTimeline" src="https://user-images.githubusercontent.com/118014331/201996999-8aad3827-1937-462b-9b0e-18d75fa068e7.png">
+
 
   - Workbook Name: Crypto Currency Timeline
   - Dataset: [Cryptocurrency Historical Prices](https://www.kaggle.com/sudalairajkumar/cryptocurrencypricehistory)
@@ -25,7 +26,7 @@ This dataset contained the volume, market cap, and opening/closing prices of eve
 
 #### Terrorist Attacks and Death Visualization
 
-![Crypto Currency Timeline](./Workbooks/GlobalTerrorism/GlobalTerrorism.png)
+![Crypto Currency Timeline]<img width="1226" alt="GlobalTerrorism" src="https://user-images.githubusercontent.com/118014331/201997132-57af7094-f19c-4ed8-a33b-e01e685a9028.png">
 
 - Workbook Name: Global Terrorism
 - Dataset [Global Terrorism Database](https://www.kaggle.com/START-UMD/gtd)
